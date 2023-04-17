@@ -1,0 +1,4 @@
+,model_name,model,metrics,lags,test_train_steps
+mape,LassoModel_12,"Lasso(alpha=0.2782559402207126, random_state=123)",0.049764388480896656,5,1
+r2,LassoModel_12,"Lasso(alpha=0.2782559402207126, random_state=123)",0.40579254917285934,5,1
+rmse,LassoModel_12,"Lasso(alpha=0.2782559402207126, random_state=123)",128.33586194471124,5,1
